@@ -44,7 +44,7 @@ The `createDayLabels` method creates a grid of seven `JPanels` across and six `J
 
 Here’s a recent example:
 
-![August 2020](2020-11-27 ((1)).png)
+![August 2020](2020-11-27a.png)
 
 The `createDayLabels` method doesn’t attempt to put day numbers in the `JLabels`. The `createDayLabels` method just creates blank `JLabels`. We will change the values of the `JLabels` later on.
 
